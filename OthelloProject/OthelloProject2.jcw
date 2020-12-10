@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>OthelloProject</label>
+	</settings>
+	<users>
+		<user>
+			<path>OthelloProject2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>OthelloProject.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>OthelloProject</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Othello</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Othello.java</path>
+			</fileitem>
+			<fileitem>
+				<path>OthelloBoard.java</path>
+			</fileitem>
+			<fileitem>
+				<path>OthelloFrame.java</path>
+			</fileitem>
+			<fileitem>
+				<path>OthelloPanel.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
